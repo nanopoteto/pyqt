@@ -1,0 +1,1 @@
+print('http://zetcode.com/gui/pyqt5/')
